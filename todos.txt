@@ -8,3 +8,4 @@ clean the bag
 fix computer
 add a new number
 make soup
+Master Python!
