@@ -7,5 +7,3 @@ fix computer
 call sunamake soup
 Master Python!
 call suna
-caca
-cacaculo
