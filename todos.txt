@@ -1,11 +1,11 @@
 shower
-play
-fix
+play nowfix
 cook
 call grandma
-call suna later
 clean the bag
 fix computer
-add a new number
-make soup
+call sunamake soup
 Master Python!
+call suna
+caca
+cacaculo
