@@ -4,6 +4,5 @@ cook
 call grandma
 clean the bag
 fix computer
-call sunamake soup
 Master Python!
 call suna
