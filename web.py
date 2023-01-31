@@ -1,9 +1,11 @@
 import streamlit as st
 import functions
 
+todos = functions.get_todos()
 def add_todo():
-    todo = st.session_state["new_todo"]
-    print(todo)
+    todo = st.session_state["new_todo"] +'\n'
+    todos.append(todo)
+    functions.write_todos(todos)
 
 
 todos = functions.get_todos()
@@ -17,3 +19,7 @@ for todo in todos:
 
 st.text_input(label="Enter a todo: ", placeholder="Add a new todo...",
               on_change=add_todo,key='new_todo')
+
+
+print("Hello")
+st.session_state
