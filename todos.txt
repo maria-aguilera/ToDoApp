@@ -1,8 +1,12 @@
-shower
-play nowfix
-cook
-call grandma
-clean the bag
-fix computer
+Do the laundry.
+Return the books to the library.
+Visit the new museum.
+Print the pictures.
+Fix the floor.
+Buy grocery.
+Cook tomorrow's dinner.
+Call grandma.
+Fix computer.
 Master Python!
-call suna
+Call suna.
+
